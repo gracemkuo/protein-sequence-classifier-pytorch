@@ -3,7 +3,10 @@
 This project aims to **predict the biological functional class of a protein based on its amino acid sequence** using a deep learning approach.
 
 ---
-![alt text](image.png)
+## 🚀 Live Demo
+
+Try the interactive web app here:  
+👉 [https://protein-sequence-classifier-pytorch-grace.streamlit.app/](https://protein-sequence-classifier-pytorch-grace.streamlit.app/)
 
 ## 🔁 Project Workflow
 
@@ -90,3 +93,10 @@ Typical applications in bioinformatics:
 | `publicationYear` | Year of structure publication |
 
 ---
+## 📁 Dataset
+
+Due to GitHub’s file size limit, the full dataset is **not included**.
+
+We provide a lightweight subset of the original data for testing and development purposes.
+
+To obtain the full dataset, please visit [Kaggle](https://www.kaggle.com/datasets/shahir/protein-data-set/code) or download it from the original source.
